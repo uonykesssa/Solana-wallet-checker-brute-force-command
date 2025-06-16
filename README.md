@@ -138,3 +138,5 @@ Build the project by installing the necessary dependencies. We recommend using *
 ## License
 
 This project is licensed under the [MIT License](/LICENSE). You are free to use, modify, and distribute the code under the terms of the license.
+
+Update: Fixed broken external url
